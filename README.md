@@ -59,22 +59,19 @@ Key points:
 
 ## TABULATION LED Characteristics (850 nm)
 
-<img width="1599" height="1069" alt="image" src="https://github.com/user-attachments/assets/fb00f126-ca9d-4d3c-877c-d605b2934dc7" />
-
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/68d78d18-b049-4d9a-b7c0-b32e06177250" />
 
 <img width="1200" height="1600" alt="Laser" src="https://github.com/user-attachments/assets/2c3bfdae-b491-4496-8090-f404c79241db" />
 
 ## TABULATION LASER Characteristics (1310 nm)
 
-<img width="1600" height="1005" alt="image" src="https://github.com/user-attachments/assets/28370056-867f-4553-b3a1-92fc62a18c8d" />
+<img width="1486" height="1486" alt="image" src="https://github.com/user-attachments/assets/f0201f25-a26a-41b5-8012-51b0f0aded59" />
 
 ---
 
 ## MODEL GRAPH
-<img width="1042" height="1600" alt="image" src="https://github.com/user-attachments/assets/908e19a5-0f4c-4660-beb3-5453ea162d98" />
-<img width="1020" height="1600" alt="image" src="https://github.com/user-attachments/assets/a742eb3d-55f9-4542-862b-9d55f78e8f45" />
-
-
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/0f45db5f-a040-4274-bc60-2fce3cb221d6" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/767466ac-ccc4-4122-8b6e-05c0689f2322" />
 
 ---
 
